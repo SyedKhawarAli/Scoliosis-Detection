@@ -2,7 +2,7 @@
 A system to detect scoliosis condition of patients. Scoliosis patients can monitor their recovery progress without any harm or side effect. 
 
 ## Screenshots
-<img src="Scoliosis_Detection_Screenshots/1.jpg" width="45%" height="45%" title="Main"> <img src="Scoliosis_Detection_Screenshots/2.jpg" width="45%" height="50%" title="Alignment/Balance">
+<img src="https://github.com/SyedKhawarAli/Scoliosis-Detection/blob/master/Scoliosis_Detection_Screenshots/1.JPG?raw=true" width="40%" height="40%" title="Main"><img src="https://github.com/SyedKhawarAli/Scoliosis-Detection/blob/master/Scoliosis_Detection_Screenshots/2.JPG?raw=true" width="40%" height="40%" title="Alignment/Balance">
 
 
 ## Built With

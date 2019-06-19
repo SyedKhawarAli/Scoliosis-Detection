@@ -1,14 +1,14 @@
-# iOS Chat Application
-Developed a chat application with complete sign up/in, text, image and video chat options. Used Firebase runtime database to support real time messaging service. 
+# Scoliosis Detection
+A system to detect scoliosis condition of patients. Scoliosis patients can monitor their recovery progress without any harm or side effect. 
 
 ## Screenshots
-<img src="https://github.com/SyedKhawarAli/iOS-Chat-Application/blob/master/1.png?raw=true" width="25%" height="25%" title="Sign up/in"><img src="https://github.com/SyedKhawarAli/iOS-Chat-Application/blob/master/2.png?raw=true" width="25%" height="25%" title="Select contact for chat">
-<img src="https://github.com/SyedKhawarAli/iOS-Chat-Application/blob/master/4.png?raw=true" width="25%" height="25%" title="Sent text and image messages"><img src="https://github.com/SyedKhawarAli/iOS-Chat-Application/blob/master/3.png?raw=true" width="25%" height="25%" title="Already contacted people"><img src="https://github.com/SyedKhawarAli/iOS-Chat-Application/blob/master/5.png?raw=true" width="25%" height="25%" title="Recived text and image messages"><img src="https://github.com/SyedKhawarAli/iOS-Chat-Application/blob/master/6.png?raw=true" width="25%" height="25%" title="Video chat">
+<img src="Scoliosis_Detection_Screenshots/1.jpg" width="45%" height="45%" title="Main"> <img src="Scoliosis_Detection_Screenshots/2.jpg" width="45%" height="50%" title="Alignment/Balance">
+
 
 ## Built With
 
-* [Xcode](https://developer.apple.com/xcode/) - IDE used 
-* [Swift](https://swift.org/) - Language used
+* [Microsoft Visual Studio](https://visualstudio.microsoft.com/) - IDE used 
+* [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) - Language used
 
 ## Credits
-Apple.Inc 
+Microsoft Corporation 

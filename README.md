@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# iOS Chat Application
+Developed a chat application with complete sign up/in, text, image and video chat options. Used Firebase runtime database to support real time messaging service. 
 
-You can use the [editor on GitHub](https://github.com/SyedKhawarAli/Scoliosis-Detection/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Screenshots
+<img src="https://github.com/SyedKhawarAli/iOS-Chat-Application/blob/master/1.png?raw=true" width="25%" height="25%" title="Sign up/in"><img src="https://github.com/SyedKhawarAli/iOS-Chat-Application/blob/master/2.png?raw=true" width="25%" height="25%" title="Select contact for chat">
+<img src="https://github.com/SyedKhawarAli/iOS-Chat-Application/blob/master/4.png?raw=true" width="25%" height="25%" title="Sent text and image messages"><img src="https://github.com/SyedKhawarAli/iOS-Chat-Application/blob/master/3.png?raw=true" width="25%" height="25%" title="Already contacted people"><img src="https://github.com/SyedKhawarAli/iOS-Chat-Application/blob/master/5.png?raw=true" width="25%" height="25%" title="Recived text and image messages"><img src="https://github.com/SyedKhawarAli/iOS-Chat-Application/blob/master/6.png?raw=true" width="25%" height="25%" title="Video chat">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Built With
 
-### Markdown
+* [Xcode](https://developer.apple.com/xcode/) - IDE used 
+* [Swift](https://swift.org/) - Language used
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SyedKhawarAli/Scoliosis-Detection/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Credits
+Apple.Inc 
